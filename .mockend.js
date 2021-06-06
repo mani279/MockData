@@ -1,7 +1,8 @@
 {
-  "User": {
-    "name": "string",
-    "origin": "string",
-    "destination": "string"
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
   }
 }
